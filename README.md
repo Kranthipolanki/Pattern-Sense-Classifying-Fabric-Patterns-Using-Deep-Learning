@@ -1,1 +1,1 @@
-# Pattern-Sense-Classifying-Fabric-Patterns-Using-Deep-Learning
+Uploaded demo video for the application 
